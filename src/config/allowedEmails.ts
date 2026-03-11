@@ -9,3 +9,6 @@ export function isEmailAllowed(email: string): boolean {
 // Add allowed email addresses to the array below
 allowedEmails.push("thomas.hendrickxgresse@indse.be");
 allowedEmails.push("thomashendrixkw@gmail.com");
+allowedEmails.push("achille.goffin@indse.be");
+allowedEmails.push("lucas.gustin@indse.be");
+allowedEmails.push("daniel.kysylov@indse.be");
